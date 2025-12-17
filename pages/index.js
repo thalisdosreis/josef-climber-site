@@ -543,7 +543,7 @@ const sampleListings = [
     location: "Dom Pedro - Manaus AM",
     mapLink: "https://maps.app.goo.gl/WUG6a6SNebbM7CPM9",
     images: [
-      "/ocean.jpg",
+      "/ocean.JPG",
       "/ocean1.jpg",
       "/ocean2.jpg",
       "/ocean3.jpg",
