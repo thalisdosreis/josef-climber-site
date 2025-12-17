@@ -542,20 +542,21 @@ const sampleListings = [
     garage: 2,
     location: "Dom Pedro - Manaus AM",
     mapLink: "https://maps.app.goo.gl/WUG6a6SNebbM7CPM9",
-    images: [
-      "/ocean.JPG",
-      "/ocean1.jpg",
-      "/ocean2.jpg",
-      "/ocean3.jpg",
-      "/ocean4.jpg",
-      "/ocean5.jpg",
-      "/ocean6.jpg",
-      "/ocean7.jpg",
-      "/ocean8.jpg",
-      "/ocean9.jpg",
-      "/ocean1.jpg.jpg",
-      "/ocean2.jpg.jpg"
-    ]
+    images: images: [
+  "/ocean.jpg",
+  "/ocean1.jpg",
+  "/ocean2.jpg",
+  "/ocean3.jpg",
+  "/ocean4.jpg",
+  "/ocean5.jpg",
+  "/ocean6.jpg",
+  "/ocean7.jpg",
+  "/ocean8.jpg",
+  "/ocean9.jpg",
+  "/ocean1.jpg.jpg",
+  "/ocean2.jpg.jpg"
+]
+
   },
 
   {
@@ -569,11 +570,9 @@ const sampleListings = [
     location: "Chapada — Manaus AM",
     mapLink: "https://maps.app.goo.gl/fjStm8qkCTAENzc6",
     images: [
-      "/inlges.jpg",
       "/ingles1.jpg",
       "/ingles2.jpg",
       "/ingles3.jpg",
-      "/ingles4.jpg",
       "/ingles5.jpg",
       "/ingles6.jpg",
       "/ingles7.jpg",
