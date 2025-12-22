@@ -474,7 +474,7 @@ function Footer() {
       <div className="max-w-7xl mx-auto px-4 py-8 flex flex-col md:flex-row justify-between gap-4">
         <div>
           <div className="font-bold">Josef Climber — Imobiliária</div>
-          <div className="text-sm text-gray-600 mt-2">Endereço: Rua Salvador, 120 Adrianóplis - Manaus, AM</div>
+          <div className="text-sm text-gray-600 mt-2">Endereço: Rua Salvador, 120 Adrianópolis - Manaus, AM</div>
           <div className="text-sm text-gray-600">© {new Date().getFullYear()} Josef Climber. Todos os direitos reservados.</div>
          <div className="text-sm text-gray-600"> {new Date().getFullYear()} CNPJ:10.595.887/0001-61</div>
  </div>
@@ -693,7 +693,7 @@ const sampleListings = [
 
   {
     id: 6,
-    title: "Vende-se Aparatamento no Condomínio Estilo Golf",
+    title: "Vende-se Apartamento no Condomínio Estilo Golf",
     price: "R$335.000,00",
     area: "",
     beds: 2,
@@ -758,7 +758,7 @@ const sampleListings = [
   },
  {
   id: 6,
-  title: "Aluga-se parte superior de Pédio na AV. Carvalho Leal",
+  title: "Aluga-se parte superior de Prédio na AV. Carvalho Leal",
   isCommercial: true,
     price: "R$2.400,00",
     area: "135M²",
@@ -853,7 +853,7 @@ const sampleListings = [
   },
   {
   id: 6,
-  title: "Vende-se ou Aluga-se Ponto Comercial no Vieira Alves",
+  title: "Vende-se ou Aluga-se Ponto Comercial no Vieiralves Business Center",
   isCommercial: true,
     price: "R$300.000,00",
     area: "",
@@ -964,7 +964,7 @@ const sampleListings = [
   },
 {
   id: 6,
-  title: "Aluga-se Ponto Comercial na Ciddade de Deus",
+  title: "Aluga-se Ponto Comercial na Cidade de Deus",
   isCommercial: true,
     price: "R$5.000,00",
     area: "320M²",
