@@ -542,7 +542,7 @@ const sampleListings = [
     garage: 2,
     location: "Dom Pedro - Manaus AM",
     mapLink: "https://maps.app.goo.gl/WUG6a6SNebbM7CPM9",
-    images: images: [
+    images: [
   "/ocean.jpg",
   "/ocean1.jpg",
   "/ocean2.jpg",
