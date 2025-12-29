@@ -628,10 +628,10 @@ const sampleListings = [
     images: [
       "/fim.jpeg",
       "/fim4.jpg",
-      "/fim5.jpg",
+      "/fim5.jpeg",
       "/fim1.jpg",
       "/fim2.jpg",
-      "/fim3.jpeg", 
+      "/fim3.jpg", 
       "/weekend1.jpg",
       "/weekend2.jpg"
     ]
