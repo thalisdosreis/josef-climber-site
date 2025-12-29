@@ -544,15 +544,15 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/WUG6a6SNebbM7CPM9",
     images: [
   "/ocean.jpg",
+  "/ocean8.jpg",
+  "/ocean9.jpg",
   "/ocean1.jpg",
-  "/ocean2.jpg",
   "/ocean3.jpg",
   "/ocean4.jpg",
   "/ocean5.jpg",
   "/ocean6.jpg",
+  "/ocean2.jpg",
   "/ocean7.jpg",
-  "/ocean8.jpg",
-  "/ocean9.jpg",
   "/ocean1.jpg.jpg",
   "/ocean2.jpg.jpg"
 ]
@@ -573,9 +573,9 @@ const sampleListings = [
       "/ingles1.jpg",
       "/ingles2.jpg",
       "/ingles3.jpg",
+      "/ingles7.jpg",
       "/ingles5.jpg",
       "/ingles6.jpg",
-      "/ingles7.jpg",
       "/ingles8.jpg",
       "/ingles9.jpg",
       "/ingles10.jpg",
@@ -627,11 +627,11 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/GD3eHLfqbLoRoWtH6",
     images: [
       "/fim.jpeg",
+      "/fim4.jpg",
+      "/fim5.jpg",
       "/fim1.jpg",
       "/fim2.jpg",
-      "/fim3.jpg",
-      "/fim4.jpg",
-      "/fim5.jpeg", 
+      "/fim3.jpeg", 
       "/weekend1.jpg",
       "/weekend2.jpg"
     ]
@@ -649,19 +649,18 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/yHVqSxdrgvKpDXFs9",
     images: [
       "/lifeflores1.jpg",
-      "/lifeflores2.jpg",
-      "/lifeflores3.jpg",
       "/lifeflores4.jpg",
-      "/lifeflores5.jpg",
-      "/lifeflores6.jpg",
+      "/lifeflores3.jpg",
       "/lifeflores7.jpg",
+      "/lifeflores6.jpg",
+      "/lifeflores5.jpg",
       "/lifeflores.jpg"
     ]
   },
 
   {
     id: 6,
-    title: "Vende-se Cobertura no condomínio Bellagio",
+    title: "Vende-se Apartamento no condomínio Bellagio",
     price: "R$1.500.000,00",
     area: "150M²",
     beds: 3,
@@ -671,15 +670,15 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/3PpEHNpJBNzu5TCHA",
     images: [
     "/belaggio.jpg",
+    "/bellagio6.jpg",
+    "/bellagio7.jpg",
+    "/bellagio8.jpg",
+    "/bellagio4.jpg",
     "/bellagio1.jpg",
     "/bellagio2.jpg",
-    "/bellagio3.jpg",
-    "/bellagio4.jpg",
-    "/bellagio5.jpg",
-    "/bellagio6.jpg",
-    "bellagio7.jpg",
-    "/bellagio8.jpg",
+    "bellagio3.jpg",
     "/bellagio9.jpg",
+    "/bellagio5.jpg",
     "/bellagio10.jpg",
     "/bellagio11.jpg",
     "/bellagio12.jpg",
@@ -703,12 +702,13 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/RCMzp1TMzoULgPkw7",
     images: [
     "/gollf.jpg",
+    "/golfia.jpg",
+    "/golf6.jpg",
+    "/golf5.jpg",
+    "/golf4.jpg",
     "/golf1.jpg",
     "/golf2.jpg",
-    "/golf3.jpg",
-    "/golf4.jpg",
-    "/golf5.jpg",
-    "/golf6.jpg", 
+    "/golf3.jpg", 
     "/golf.jpg"
     ],
     videos: [
@@ -783,14 +783,14 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/S9V7paRnGwjUifZj9",
     images: [
       "/hill.jpg",
-      "/hilll2.jpg",
+      "/hill5.jpg",
       "/hill3.jpg",
       "/hill4.jpg",
-      "/hill5.jpg",
-      "/hill6.jpg",
+      "/hill1.jpg",
+      "/hill2.jpg",
       "/hill7.jpg",
-      "/hill8.jpg",
       "/hill9.jpg",
+      "/hill8.jpg",
       "/hill10.jpg",
       "/hill11.jpg",
       "/hilll.jpg"
@@ -810,11 +810,11 @@ const sampleListings = [
     "/p10.jpg",
     "/p101.jpg",
     "/p102.jpg",
-    "/p103.jpg",
+    "/p107.jpg",
     "/p104.jpg",
     "/p105.jpg",
     "/p106.jpg",
-    "/p107.jpg",
+    "/p103.jpg",
     "/hyd.png"
     ]
   },
@@ -865,9 +865,9 @@ const sampleListings = [
     images: [
     "/102.jpeg",
     "/1021.jpeg",
-    "/1022.jpeg",
+    "/1024.jpeg",
     "/1023.jpeg",
-    "/1024.jpeg",   
+    "/1022.jpeg",   
     "/vbc.jpeg"
     ]
   },
@@ -898,12 +898,12 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/qgYBMJpdUBrxuxz37",
     images: [
     "/lu.jpg",
-    "lu1.jpg",
+    "lu6.jpg",
     "lu2.jpg",
-    "lu3.jpg",
+    "lu1.jpg",
     "lu4.jpg",
     "lu5.jpg",
-    "lu6.jpg", 
+    "lu3.jpg", 
     "/trqt.jpg"
     ]
   },
