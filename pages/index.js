@@ -595,7 +595,8 @@ const sampleListings = [
     location: "Aleixo - Manaus AM",
     mapLink: "https://maps.app.goo.gl/vdhax4rwS521m5179",
     images: [
-    "reserva.avif",
+    "/reserva.avif",
+    "/planta.reserva.png",
     "/reserva1.jpg.jpg"
     ]
   },
@@ -752,7 +753,8 @@ const sampleListings = [
     "/alv2.jpg",
     "/alv3.jpg",
     "/alv4.jpg",
-    "/alv5.jpg",  
+    "/alv5.jpg",
+    "/planta.alvorada.png",  
     "/alvorada.jpg"
     ]
   },
@@ -903,7 +905,8 @@ const sampleListings = [
     "lu1.jpg",
     "lu4.jpg",
     "lu5.jpg",
-    "lu3.jpg", 
+    "lu3.jpg",
+    "/planta.trqt.png", 
     "/trqt.jpg"
     ]
   },
