@@ -633,6 +633,7 @@ const sampleListings = [
       "/fim1.jpg",
       "/fim2.jpg",
       "/fim3.jpg", 
+      "/planta.weekend.png",
       "/weekend1.jpg",
       "/weekend2.jpg"
     ]
@@ -655,6 +656,7 @@ const sampleListings = [
       "/lifeflores7.jpg",
       "/lifeflores6.jpg",
       "/lifeflores5.jpg",
+      "/planta.life.png",
       "/lifeflores.jpg"
     ]
   },
@@ -709,7 +711,8 @@ const sampleListings = [
     "/golf4.jpg",
     "/golf1.jpg",
     "/golf2.jpg",
-    "/golf3.jpg", 
+    "/golf3.jpg",
+    "/planta.estilo.png" 
     "/golf.jpg"
     ],
     videos: [
