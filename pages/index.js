@@ -712,7 +712,7 @@ const sampleListings = [
     "/golf1.jpg",
     "/golf2.jpg",
     "/golf3.jpg",
-    "/planta.estilo.png" 
+    "/planta.estilo.png",
     "/golf.jpg"
     ],
     videos: [
