@@ -1000,17 +1000,17 @@ const sampleListings = [
     location: "Cachoeirinha - Manaus AM",
     mapLink: "https://www.google.com/maps/@-3.1240716,-60.0060148,3a,90y,101.21h,102.12t/data=!3m7!1e1!3m5!1ssVUzjq6Fbnbn05tj_BcVxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.12492499352581%26panoid%3DsVUzjq6Fbnbn05tj_BcVxg%26yaw%3D101.21082040794465!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
     images: [
-      "/sasahara1.jpg",
-      "/sasahara2.jpg",
-      "/sasahara3.jpg",
-      "/sasahara4.jpg",
-      "/sasahara5.jpg",
-      "/sasahara6.jpg",
-      "/sasahara7.jpg",
-      "/sasahara8.jpg",
-      "/sasahara9.jpg",
-      "/sasahara10.jpg",
-      "/sasahara11.jpg",
+      "/sasahara1.JPG",
+      "/sasahara2.JPG",
+      "/sasahara3.JPG",
+      "/sasahara4.JPG",
+      "/sasahara5.JPG",
+      "/sasahara6.JPG",
+      "/sasahara7.JPG",
+      "/sasahara8.JPG",
+      "/sasahara9.JPG",
+      "/sasahara10.JPG",
+      "/sasahara11.JPG",
       "/sasahara12.jpg"
     ]
   },
@@ -1029,6 +1029,7 @@ const sampleListings = [
       "/jornal1.jpeg",
       "/jornal2.jpeg",
       "/jornal3.jpeg",
+      "/JORNAL.ARTE.jpg"
     ]
   },
 ];
