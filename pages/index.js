@@ -1016,7 +1016,7 @@ const sampleListings = [
   },
 {
     id: 6,
-    title: "Aluga-se Ponto Comercial na Carvalho Leal",
+    title: "Vende-se Apartamento mo Conjunto Jornalista",
     price: "R$220.000,00",
     area: "65M²",
     beds: 2,
