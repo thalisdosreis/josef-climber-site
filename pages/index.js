@@ -986,7 +986,51 @@ const sampleListings = [
       "/mário4.jpeg",
       "/mário5.jpg"
     ]
-  }
+  },
+
+{
+    id: 6,
+    title: "Aluga-se Ponto Comercial na Carvalho Leal",
+    isCommercial: true,
+    price: "R$3.800,00",
+    area: "135M²",
+    beds: 3,
+    baths: 1,
+    garage: 1,
+    location: "Cachoeirinha - Manaus AM",
+    mapLink: "https://www.google.com/maps/@-3.1240716,-60.0060148,3a,90y,101.21h,102.12t/data=!3m7!1e1!3m5!1ssVUzjq6Fbnbn05tj_BcVxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.12492499352581%26panoid%3DsVUzjq6Fbnbn05tj_BcVxg%26yaw%3D101.21082040794465!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+    images: [
+      "/sasahara1.jpg",
+      "/sasahara2.jpg",
+      "/sasahara3.jpg",
+      "/sasahara4.jpg",
+      "/sasahara5.jpg",
+      "/sasahara6.jpg",
+      "/sasahara7.jpg",
+      "/sasahara8.jpg",
+      "/sasahara9.jpg",
+      "/sasahara10.jpg",
+      "/sasahara11.jpg",
+      "/sasahara12.jpg"
+    ]
+  },
+{
+    id: 6,
+    title: "Aluga-se Ponto Comercial na Carvalho Leal",
+    price: "R$220.000,00",
+    area: "65M²",
+    beds: 2,
+    baths: 1,
+    garage: 1,
+    location: "Chapada - Manaus AM",
+    mapLink: "https://www.google.com/maps/@-3.0958829,-60.0266674,3a,75y,256.38h,94.44t/data=!3m7!1e1!3m5!1sHl9xUYdkh6NbhjINVZnsMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.4430158221969265%26panoid%3DHl9xUYdkh6NbhjINVZnsMw%26yaw%3D256.38416143360257!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
+    images: [
+      "/jornal.jpeg",
+      "/jornal1.jpeg",
+      "/jornal2.jpeg",
+      "/jornal3.jpeg",
+    ]
+  },
 ];
 
 const galleryImages = {
