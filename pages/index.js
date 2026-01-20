@@ -1016,7 +1016,7 @@ const sampleListings = [
   },
 {
     id: 6,
-    title: "Vende-se Apartamento mo Conjunto Jornalista",
+    title: "Vende-se Apartamento no Conjunto Jornalista",
     price: "R$220.000,00",
     area: "65M²",
     beds: 2,
