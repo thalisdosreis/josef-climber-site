@@ -531,59 +531,6 @@ const sampleListings = [
       "/lene1.jpeg"
     ]
   },
-
-  {
-    id: 3,
-    title: "Vende-se Cobertura Duplex no condomínio Ocean Parque no bairro Dom Pedro",
-    price: "R$1.500.000,00",
-    area: "435,20M²",
-    beds: 4,
-    baths: 3,
-    garage: 2,
-    location: "Dom Pedro - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/WUG6a6SNebbM7CPM9",
-    images: [
-  "/ocean.jpg",
-  "/ocean8.jpg",
-  "/ocean9.jpg",
-  "/ocean1.jpg",
-  "/ocean3.jpg",
-  "/ocean4.jpg",
-  "/ocean5.jpg",
-  "/ocean6.jpg",
-  "/ocean2.jpg",
-  "/ocean7.jpg",
-  "/ocean1.jpg.jpg",
-  "/ocean2.jpg.jpg"
-]
-
-  },
-
-  {
-    id: 4,
-    title: "Vende-se Apartamento no condomínio fechado Parque dos Ingleses",
-    price: "R$350.00,00",
-    area: "66,50M²",
-    beds: 3,
-    baths: 2,
-    garage: 1,
-    location: "Chapada — Manaus AM",
-    mapLink: "https://maps.app.goo.gl/fjStm8qkCTAENzc6",
-    images: [
-      "/ingles1.jpg",
-      "/ingles2.jpg",
-      "/ingles3.jpg",
-      "/ingles7.jpg",
-      "/ingles5.jpg",
-      "/ingles6.jpg",
-      "/ingles8.jpg",
-      "/ingles9.jpg",
-      "/ingles10.jpg",
-      "/ingleses1.jpg.jpg",
-      "/ingleses2.jpg.jpg"
-    ]
-  },
-
   {
     id: 5,
     title: "Vende-se Apartamento no condomínio Reserva Morada no Bairro Aleixo",
@@ -695,33 +642,6 @@ const sampleListings = [
 
   {
     id: 6,
-    title: "Vende-se Apartamento no Condomínio Estilo Golf",
-    price: "R$335.000,00",
-    area: "",
-    beds: 2,
-    baths: 2,
-    garage: 1,
-    location: "Novo Aleixo - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/RCMzp1TMzoULgPkw7",
-    images: [
-    "/gollf.jpg",
-    "/golfia.jpg",
-    "/golf6.jpg",
-    "/golf5.jpg",
-    "/golf4.jpg",
-    "/golf1.jpg",
-    "/golf2.jpg",
-    "/golf3.jpg",
-    "/planta.estilo.png",
-    "/golf.jpg"
-    ],
-    videos: [
-      "/golf.mp4"
-    ]
-  },
-
-  {
-    id: 6,
     title: "Vende-se Apartamento no Condomínio Joan Miró",
     price: "R$550.000,00",
     area: "",
@@ -761,21 +681,7 @@ const sampleListings = [
     "/alvorada.jpg"
     ]
   },
- {
-  id: 6,
-  title: "Aluga-se parte superior de Prédio na AV. Carvalho Leal",
-  isCommercial: true,
-    price: "R$2.400,00",
-    area: "135M²",
-    beds: 3,
-    baths: 2,
-    garage: 1,
-    location: "Cachoeirinha - Manaus AM",
-    mapLink: "https://www.google.com/maps/place/Cart%C3%B3rio+Justiniano+do+5%C2%BA+Of%C3%ADcio+de+Notas/@-3.1240263,-60.0060972,3a,75y,287.56h,85.14t/data=!3m7!1e1!3m5!1sGT5L7okR3lhphGJrGhmfHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.859910487035009%26panoid%3DGT5L7okR3lhphGJrGhmfHg%26yaw%3D287.55875837933326!7i16384!8i8192!4m14!1m7!3m6!1s0x926c05d51be7377f:0xbed52d1c2816c549!2sOdonto+Excellence+Cachoeirinha+%7C+Dentista!8m2!3d-3.1243061!4d-60.0062656!16s%2Fg%2F11xff3snxq!3m5!1s0x926c0572642fc9ff:0xef85e50c940f0cce!8m2!3d-3.1237844!4d-60.0059734!16s%2Fg%2F1tdmwpsv",
-    images: [
-      "/cachoeirinha.jpg"
-    ]
-  },
+ 
   {
     id: 6,
     title: "Vende-se Casa Duplex no Condomínio Forest Hill",
@@ -842,55 +748,8 @@ const sampleListings = [
     "/nilo.jpg"
     ]
   },
- {
-  id: 6,
-  title: "Vende-se ou Aluga-se Ponto Comercial no Vieira Alves",
-  isCommercial: true,
-    price: "R$12.000,00 ou R$2.000.000,00",
-    area: "",
-    beds: 8,
-    baths: 3,
-    garage: 2,
-    location: "Vieira Alves - Manaus AM",
-    images: [
-      "/vieira.jpg"
-    ]
-  },
-  {
-  id: 6,
-  title: "Vende-se ou Aluga-se Ponto Comercial no Vieiralves Business Center",
-  isCommercial: true,
-    price: "R$300.000,00",
-    area: "",
-    beds: 3,
-    baths: 1,
-    garage: 1,
-    location: "Adrianópolis - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/SynNaneXVBNbU1JS6",
-    images: [
-    "/102.jpeg",
-    "/1021.jpeg",
-    "/1024.jpeg",
-    "/1023.jpeg",
-    "/1022.jpeg",   
-    "/vbc.jpeg"
-    ]
-  },
-  {
-  id: 6,
-  title: "Vende-se ou Aluga-se Sala Comercial no Vieiralves Business Center",
-  isCommercial: true,
-    price: "R$6.000,00 ou R$700.000,00",
-    area: "",
-    beds: 3,
-    baths: 3,
-    garage: 2,
-    location: "Adrianópolis - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/SynNaneXVBNbU1JS6",
-    images: [
-      "/201201vbc.jpg"
-    ]
-  },
+ 
+  
   {
     id: 6,
     title: "Aluga-se Apartamento Totalmente Mobiliado no Condomínio Ideal Torquato",
