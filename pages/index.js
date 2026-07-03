@@ -506,21 +506,9 @@ function InfoIcon({ icon, label }) {
 
 
 const sampleListings = [
-  {
-    id: 1,
-    title: "Casa para locação na AV. Leonardo Malcher - Centro de Manaus",
-    price: "R$1.500",
-    area: "60 m²",
-    beds: 2,
-    baths: 1,
-    garage: 0,
-    location: "AV. Leonardo Malcher - Centro de Manaus",
-    mapLink: "https://maps.app.goo.gl/5pt7mrHnN3bCDnct8",
-    images: ["/malcher1.jpg.jpg"]
-  },
-  {
+    {
     id: 3,
-    title: "Vende-se Terreno no Bairro Novo Aleixo",
+    title: "Vende-se Lote no Bairro Novo Aleixo",
     price: "R$280.000,00",
     area: "521M²",
     location: "Novo Aleixo  - Manaus AM",
@@ -531,62 +519,7 @@ const sampleListings = [
       "/lene1.jpeg"
     ]
   },
-  {
-    id: 5,
-    title: "Vende-se Apartamento no condomínio Reserva Morada no Bairro Aleixo",
-    price: "R$530.00,00",
-    area: "A consultar",
-    beds: 2,
-    baths: 2,
-    garage: 1,
-    location: "Aleixo - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/vdhax4rwS521m5179",
-    images: [
-    "/reserva.avif",
-    "/planta.reserva.png",
-    "/reserva1.jpg.jpg"
-    ]
-  },
-
-  {
-    id: 6,
-    title: "Aluga-se Apartamendo No Residencial Eldorado na Chapada",
-    price: "R$1.300,00",
-    area: "55M²",
-    beds: 2,
-    baths: 1,
-    garage: 1,
-    location: "Chapada - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/dUnwbEtpRpeL63db6",
-    images: [
-      "/eldorado1.jpg.jpg"
-    ]
-  },
-
-  {
-    id: 7,
-    title: "Vende-se apartamento no condomínio Weekend",
-    price: "R$600.00,00",
-    area: "?",
-    beds: 3,
-    baths: 2,
-    garage: 2,
-    location: " - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/GD3eHLfqbLoRoWtH6",
-    images: [
-      "/fim.jpeg",
-      "/fim4.jpg",
-      "/fim5.jpeg",
-      "/fim1.jpg",
-      "/fim2.jpg",
-      "/fim3.jpg", 
-      "/planta.weekend.png",
-      "/weekend1.jpg",
-      "/weekend2.jpg"
-    ]
-  },
-
-  {
+{
     id: 6,
     title: "Vende-se Cobertura Duplex no Life Flores",
     price: "R$700.000,00",
@@ -605,6 +538,24 @@ const sampleListings = [
       "/lifeflores5.jpg",
       "/planta.life.png",
       "/lifeflores.jpg"
+    ]
+  },
+
+
+  {
+    id: 5,
+    title: "Vende-se Apartamento no condomínio Reserva Morada no Bairro Aleixo",
+    price: "R$530.00,00",
+    area: "A consultar",
+    beds: 2,
+    baths: 2,
+    garage: 1,
+    location: "Aleixo - Manaus AM",
+    mapLink: "https://maps.app.goo.gl/vdhax4rwS521m5179",
+    images: [
+    "/reserva.avif",
+    "/planta.reserva.png",
+    "/reserva1.jpg.jpg"
     ]
   },
 
@@ -782,9 +733,18 @@ const sampleListings = [
     baths: 2,
     garage: 1,
     location: "Bairro Da Paz - Manaus AM",
-    mapLink: "https://www.google.com/maps/place/Beco+Henoch+Reis+-+Da+Paz,+Manaus+-+AM,+69048-000/@-3.0647591,-60.0321322,3a,90y,58.47h,87.82t/data=!3m7!1e1!3m5!1sv-oi9BuZp78PjBKa-jXVfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.1844274139551487%26panoid%3Dv-oi9BuZp78PjBKa-jXVfg%26yaw%3D58.46815393617504!7i16384!8i8192!4m6!3m5!1s0x926c108147726eb7:0x813f3ad580d8046b!8m2!3d-3.0650074!4d-60.0306966!16s%2Fg%2F11cmkrkfw2?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D",
+    mapLink: "https://maps.app.goo.gl/pe2vGFj12oJxUPF4A",
     images: [
-      "/mário.jpg"
+      "/casa.drmário(9).jpeg"
+      "/casa.drmário(8).jpeg"
+      "/casa.drmário(2).jpeg"
+      "/casa.drmário(3).jpeg"
+      "/casa.drmário(7).jpeg"
+      "/casa.drmário(5).jpeg"
+      "/casa.drmário(4).jpeg"
+      "/casa.drmário(6).jpeg"
+      "/casa.drmário(1).jpeg"
+   
     ]
   },
   {
@@ -847,32 +807,6 @@ const sampleListings = [
     ]
   },
 
-{
-    id: 6,
-    title: "Aluga-se Ponto Comercial na Carvalho Leal",
-    isCommercial: true,
-    price: "R$3.800,00",
-    area: "135M²",
-    beds: 3,
-    baths: 1,
-    garage: 1,
-    location: "Cachoeirinha - Manaus AM",
-    mapLink: "https://www.google.com/maps/@-3.1240716,-60.0060148,3a,90y,101.21h,102.12t/data=!3m7!1e1!3m5!1ssVUzjq6Fbnbn05tj_BcVxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.12492499352581%26panoid%3DsVUzjq6Fbnbn05tj_BcVxg%26yaw%3D101.21082040794465!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D",
-    images: [
-      "/sasahara1.JPG",
-      "/sasahara2.JPG",
-      "/sasahara3.JPG",
-      "/sasahara4.JPG",
-      "/sasahara5.JPG",
-      "/sasahara6.JPG",
-      "/sasahara7.JPG",
-      "/sasahara8.JPG",
-      "/sasahara9.JPG",
-      "/sasahara10.JPG",
-      "/sasahara11.JPG",
-      "/sasahara12.jpg"
-    ]
-  },
 {
     id: 6,
     title: "Vende-se Apartamento no Conjunto Jornalista",
