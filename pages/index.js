@@ -552,8 +552,8 @@ const sampleListings = [
     location: "Adrianópolis - Manaus AM",
     mapLink: "https://maps.app.goo.gl/qwAQq1XiJaCh9gPX9",
     images: [
-    "/nsradefatima.jpg"
-        ]
+    "/frankey.jpg"
+     ]
   },
 
 
