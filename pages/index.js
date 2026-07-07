@@ -736,13 +736,13 @@ const sampleListings = [
     mapLink: "https://maps.app.goo.gl/pe2vGFj12oJxUPF4A",
     images: [
     "/casa-drmario-9.jpeg",
-    "/casa.drmário (8).jpeg",
-    "/casa.drmário (2).jpeg",
-    "/casa.drmário (3).jpeg",
-    "/casa.drmário (7).jpeg",
-    "/casa.drmário (5).jpeg",
-    "/casa.drmário (4).jpeg",
-    "/casa.drmário (6).jpeg",
+    "/casa-drmario-8.jpeg",
+    "/casa-drmario-2.Jpeg",
+    "/casa-drmario-3.jpeg",
+    "/casa-drmario-7.jpeg",
+    "/casa-drmario-5.jpeg",
+    "/casa-drmario-4.jpeg",
+    "/casa-drmario-6.jpeg",
     "/casa.drmário1.jpeg"
    
     ]
