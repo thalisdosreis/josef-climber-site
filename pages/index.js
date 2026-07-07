@@ -737,7 +737,7 @@ const sampleListings = [
     images: [
       "casa.drmário (9).jpeg",
       "casa.drmário (8).jpeg",
-      "casa.drmário (2).jpeg",
+      "/casa.drmário (2).jpeg",
       "casa.drmário (3).jpeg",
       "casa.drmário (7).jpeg",
       "casa.drmário (5).jpeg",
