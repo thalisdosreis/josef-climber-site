@@ -743,7 +743,7 @@ const sampleListings = [
       "casa.drmário (5).jpeg",
       "casa.drmário (4).jpeg",
       "casa.drmário (6).jpeg",
-      "casa.drmário1.jpeg"
+      "casa.drmário1.jpeg (1599x899)"
    
     ]
   },
