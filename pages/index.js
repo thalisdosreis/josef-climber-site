@@ -541,6 +541,21 @@ const sampleListings = [
     ]
   },
 
+ {
+    id: 5,
+    title: "VENDE-SE APARTAMENTO NO CONDOMÍNIO NOSSA SENHORA DE FÁTIMA",
+    price: "R$380.000,00",
+    area: "72M²",
+    beds: 3,
+    baths: 2,
+    garage: 1,
+    location: "Adrianópolis - Manaus AM",
+    mapLink: "https://maps.app.goo.gl/qwAQq1XiJaCh9gPX9",
+    images: [
+    "/nsradefátima.jpg"
+        ]
+  },
+
 
   {
     id: 5,
@@ -724,29 +739,6 @@ const sampleListings = [
     ]
   },
 
-  {
-    id: 6,
-    title: "Aluga-se Casa no Bairro Da Paz",
-    price: "R$1.800,00",
-    area: "",
-    beds: 2,
-    baths: 2,
-    garage: 1,
-    location: "Bairro Da Paz - Manaus AM",
-    mapLink: "https://maps.app.goo.gl/pe2vGFj12oJxUPF4A",
-    images: [
-    "/teste.jpg",
-    "/casa-drmario-8.jpeg",
-    "/casa-drmario-2.Jpeg",
-    "/casa-drmario-3.jpeg",
-    "/casa-drmario-7.jpeg",
-    "/casa-drmario-5.jpeg",
-    "/casa-drmario-4.jpeg",
-    "/casa-drmario-6.jpeg",
-    "/casa.drmário1.jpeg"
-   
-    ]
-  },
   {
     id: 6,
     title: "Vende-se Casa no bairro do Tarumã",
