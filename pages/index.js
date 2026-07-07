@@ -735,6 +735,7 @@ const sampleListings = [
     location: "Bairro Da Paz - Manaus AM",
     mapLink: "https://maps.app.goo.gl/pe2vGFj12oJxUPF4A",
     images: [
+    "/bellagio1.jpg",
     "/casa-drmario-9.jpeg",
     "/casa-drmario-8.jpeg",
     "/casa-drmario-2.Jpeg",
