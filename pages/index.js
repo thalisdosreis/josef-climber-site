@@ -735,15 +735,15 @@ const sampleListings = [
     location: "Bairro Da Paz - Manaus AM",
     mapLink: "https://maps.app.goo.gl/pe2vGFj12oJxUPF4A",
     images: [
-      "casa.drmário (9).jpeg",
-      "casa.drmário (8).jpeg",
-      "casa.drmário (2).jpeg",
-      "casa.drmário (3).jpeg",
-      "casa.drmário (7).jpeg",
-      "casa.drmário (5).jpeg",
-      "casa.drmário (4).jpeg",
-      "casa.drmário (6).jpeg",
-      "casa.drmário1.jpeg (1599x899)"
+    "/casa.drmário (9).jpeg",
+    "/casa.drmário (8).jpeg",
+    "/casa.drmário (2).jpeg",
+    "/casa.drmário (3).jpeg",
+    "/casa.drmário (7).jpeg",
+    "/casa.drmário (5).jpeg",
+    "/casa.drmário (4).jpeg",
+    "/casa.drmário (6).jpeg",
+    "/casa.drmário1.jpeg (1599x899)"
    
     ]
   },
