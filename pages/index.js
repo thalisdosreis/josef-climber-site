@@ -757,24 +757,30 @@ const sampleListings = [
   
   {
     id: 6,
-    title: "ALUGA-SE APARTAMENTO TOTALMENTE MOBILIADO NO CONDOMÍNIO IDEAL TORQUATO",
-    price: "R$1.800,00",
-    area: "53M²",
-    beds: 3,
+    title: "ALUGA-SE APARTAMENTO NO CONDOMÍNIO IDEAL TORQUATO",
+    price: "R$1.500,00",
+    area: "42M²",
+    beds: 2,
     baths: 1,
     garage: 1,
     location: "Tarumã - Manaus AM",
     mapLink: "https://maps.app.goo.gl/qgYBMJpdUBrxuxz37",
     images: [
-    "/lu.jpg",
-    "lu6.jpg",
-    "lu2.jpg",
-    "lu1.jpg",
-    "lu4.jpg",
-    "lu5.jpg",
-    "lu3.jpg",
-    "/planta.trqt.png", 
-    "/trqt.jpg"
+    "/idealk.jpg",
+    "/idealk1.jpg",
+    "/idealk2.jpg",
+    "/idealk3.jpg",
+    "/idealk4.jpg",
+    "/idealk5.jpg",
+    "/idealk6.jpg",
+    "/idealk7.jpg",
+    "/idealk8.jpg",
+    "/idealk9.jpg",
+    "/idealk10.jpg",
+    "/idealk11.jpg",
+    "/idealk12.jpg",
+    "/idealk13.jpg"
+
     ]
   },
 
