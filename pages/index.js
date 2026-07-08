@@ -508,7 +508,7 @@ function InfoIcon({ icon, label }) {
 const sampleListings = [
     {
     id: 3,
-    title: "VENDE-SE LOTE NO NOVO ALEIXO",
+    title: "VENDE-SE LOTE NO BAIRRO NOVO ALEIXO",
     price: "R$280.000,00",
     area: "521M²",
     location: "Novo Aleixo  - Manaus AM",
@@ -587,7 +587,7 @@ const sampleListings = [
 
   {
     id: 6,
-    title: "Vende-se Apartamento no condomínio Bellagio",
+    title: "VENDE-SE APARTAMENTO NO CONDOMÍNO BELLAGIO",
     price: "R$1.500.000,00",
     area: "150M²",
     beds: 3,
@@ -619,7 +619,7 @@ const sampleListings = [
 
   {
     id: 6,
-    title: "Vende-se Apartamento no Condomínio Joan Miró",
+    title: "VENDE-SE APARTAMENTO NO CONDOMÍNIO JOAN MIRÓ",
     price: "R$550.000,00",
     area: "",
     beds: 2,
@@ -639,7 +639,7 @@ const sampleListings = [
   },
   {
     id: 6,
-    title: "Vende-se Apartamento no Condomínio Parque Alvorada",
+    title: "VENDE-SE APARTAMENTO NO CONDOMÍNIO PARQUE ALVORADA",
     price: "Valor a Negociar",
     area: "M²",
     beds: 2,
@@ -661,7 +661,7 @@ const sampleListings = [
  
   {
     id: 6,
-    title: "Vende-se Casa Duplex no Condomínio Forest Hill",
+    title: "VENDE-SE CASA DUPLEX NO CONDOMÍNIO FOREST HILL",
     price: "R$1.200.000,00",
     area: "250M²",
     beds: 4,
@@ -686,7 +686,7 @@ const sampleListings = [
   },
   {
     id: 6,
-    title: "Vende-se Casa no Jardim Oriente",
+    title: "VENDE-SE CASA NO JARDIM ORIENTE",
     price: "R$350.000,00",
     area: "",
     beds: 2,
@@ -708,7 +708,7 @@ const sampleListings = [
   },
 {
     id: 6,
-    title: "Vende-se Casa no Residencial Princesa do Rio Nilo",
+    title: "VENDE-SE CASA NO RESIDENCIAL PRINCESA DO RIO NILO",
     price: "R$250.000,00",
     area: "",
     beds: 2,
@@ -729,7 +729,7 @@ const sampleListings = [
   
   {
     id: 6,
-    title: "Aluga-se Apartamento Totalmente Mobiliado no Condomínio Ideal Torquato",
+    title: "ALUGA-SE APARTAMENTO TOTALMENTE MOBILIADO NO CONDOMÍNIO IDEAL TORQUATO",
     price: "R$1.800,00",
     area: "53M²",
     beds: 3,
@@ -752,7 +752,7 @@ const sampleListings = [
 
   {
     id: 6,
-    title: "Vende-se Casa no bairro do Tarumã",
+    title: "VENDE-SE CASA NO BAIRRO TARUMÃ",
     price: "R$1.500.000,00",
     area: "",
     beds: 7,
@@ -775,7 +775,7 @@ const sampleListings = [
   },
 {
     id: 6,
-    title: "Vende-se Casa no Rio Preto da Eva",
+    title: "VENDE-SE CASA NO RIO PRETO DA EVA",
     price: "R$150.000,00",
     area: "280M²",
     beds: 2,
@@ -792,7 +792,7 @@ const sampleListings = [
   },
 {
   id: 6,
-  title: "Aluga-se Ponto Comercial na Cidade de Deus",
+  title: "ALUGA-SE PONTO COMERCIAL NA CIDADE DE DEUS",
   isCommercial: true,
     price: "R$5.000,00",
     area: "320M²",
@@ -812,7 +812,7 @@ const sampleListings = [
 
 {
     id: 6,
-    title: "Vende-se Apartamento no Conjunto Jornalista",
+    title: "VENDE-SE APARTAMENTO NO CONDOMÍNIO JORNALISTAS",
     price: "R$220.000,00",
     area: "65M²",
     beds: 2,
