@@ -473,8 +473,8 @@ function Footer() {
     <footer className="mt-12 bg-white/70 border-t">
       <div className="max-w-7xl mx-auto px-4 py-8 flex flex-col md:flex-row justify-between gap-4">
         <div>
-          <div className="font-bold">Josef Climber — Imobiliária</div>
-          <div className="text-sm text-gray-600 mt-2">Endereço: Rua Salvador, 120 Adrianópolis - Manaus, AM</div>
+          <div className="font-SIENNA">Josef Climber — Imobiliária</div>
+          <div className="text-sm text-gray-600 mt-2">Endereço: Rua Salvador, SL207, 120 Adrianópolis - Manaus, AM, CEP 69057-040.</div>
           <div className="text-sm text-gray-600">© {new Date().getFullYear()} Josef Climber. Todos os direitos reservados.</div>
          <div className="text-sm text-gray-600"> {new Date().getFullYear()} CNPJ:10.595.887/0001-61</div>
  </div>
