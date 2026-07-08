@@ -566,6 +566,34 @@ const sampleListings = [
     "/frankey13.jpg" 
      ]
   },
+{
+    id: 6,
+    title: "ALUGA-SE APARTAMENTO NO CONDOMÍNIO SALVADOR DALI",
+    price: "R$6.000,00",
+    area: "112M²",
+    beds: 3,
+    baths: 2,
+    garage: 2,
+    location: "Adrianópolis - Manaus AM",
+    mapLink: "https://maps.app.goo.gl/PYXQcyvtXVgxBaS58",
+    images: [
+      "/salvador.jpg", 
+      "/salvador1.jpg",
+      "/salvador2.jpg", 
+      "/salvador3.jpg",
+      "/salvador4.jpg", 
+      "/salvador5.jpg",
+      "/salvador6.jpg", 
+      "/salvador7.jpg",
+      "/salvador8.jpg", 
+      "/salvador9.jpg",
+      "/salvador10.jpg", 
+      "/salvador11.jpg",
+      "/salvador12.jpg", 
+      "/salvador13.jpg"
+
+    ]
+  },
 
 
   {
