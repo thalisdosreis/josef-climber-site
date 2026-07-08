@@ -508,7 +508,7 @@ function InfoIcon({ icon, label }) {
 const sampleListings = [
     {
     id: 3,
-    title: "Vende-se Lote no Bairro Novo Aleixo",
+    title: "VENDE-SE LOTE NO NOVO ALEIXO",
     price: "R$280.000,00",
     area: "521M²",
     location: "Novo Aleixo  - Manaus AM",
@@ -521,7 +521,7 @@ const sampleListings = [
   },
 {
     id: 6,
-    title: "Vende-se Cobertura Duplex no Life Flores",
+    title: "VENDE-SE COBERTURA DUPLEX NO LIFE FLORES",
     price: "R$700.000,00",
     area: "136M²",
     beds: 4,
@@ -552,14 +552,25 @@ const sampleListings = [
     location: "Adrianópolis - Manaus AM",
     mapLink: "https://maps.app.goo.gl/qwAQq1XiJaCh9gPX9",
     images: [
-    "/frankey.jpg"
+    "/frankey.jpg",
+    "/frankey1.jpg",
+    "/frankey2.jpg",
+    "/frankey3.jpg",
+    "/frankey4.jpg",
+    "/frankey5.jpg", 
+    "/frankey6.jpg",
+    "/frankey7.jpg",
+    "/frankey8.jpg",
+    "/frankey9.jpg",
+    "/frankey12.jpg",
+    "/frankey13.jpg" 
      ]
   },
 
 
   {
     id: 5,
-    title: "Vende-se Apartamento no condomínio Reserva Morada no Bairro Aleixo",
+    title: "VENDE-SE APARTAMENTO NO CONDOMÍNIO RESERVA MORADA",
     price: "R$530.00,00",
     area: "A consultar",
     beds: 2,
