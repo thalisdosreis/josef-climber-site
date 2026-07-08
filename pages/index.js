@@ -66,7 +66,7 @@ function Header({ onNav, logo }) {
 
   {/* Botão azul — apenas CELULAR */}
   <a
-    href="https://wa.me/5592982039977?text=Ol%C3%A1%2C%20tenho%20um%20im%C3%B3vel%20para%20cadastrar!"
+    href="https://wa.me/5592984811023?text=Ol%C3%A1%2C%20tenho%20um%20im%C3%B3vel%20para%20cadastrar!"
     target="_blank"
     rel="noopener noreferrer"
     className="px-3 py-2 rounded bg-blue-600 text-white text-sm md:hidden"
