@@ -626,10 +626,10 @@ const sampleListings = [
     images: [
     "/alvo.jpg",
     "/alvo1.lpg",
-    "/alvo2.jpg" 
-    "/alvo3.lpg",
-    "/alvo4.jpg" 
-    "/alvo5.lpg",
+    "/alvo2.jpg", 
+    "/alvo3.jpg",
+    "/alvo4.jpg",
+    "/alvo5.jpg",
     "/alvo6.jpg" 
     ]
   },
