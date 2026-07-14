@@ -613,6 +613,28 @@ const sampleListings = [
     ]
   },
 
+{
+    id: 5,
+    title: "ALUGA-SE ALTOS DE CASA NO BAIRRO ALVORADA",
+    price: "R$1.600,00",
+    area: "A consultar",
+    beds: 2,
+    baths: 2,
+    garage: 1,
+    location: "Alvorada - Manaus AM",
+    mapLink: "https://www.google.com/maps/place/R.+Prof.+Ant%C3%B4nio+Giulesse,+279+-+Alvorada,+Manaus+-+AM,+69042-060/@-3.0776254,-60.0464528,3a,90y,208.22h,99.19t/data=!3m7!1e1!3m5!1siylFJQxD397SILgnmQsgOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.194040385955674%26panoid%3DiylFJQxD397SILgnmQsgOw%26yaw%3D208.22260274275075!7i16384!8i8192!4m6!3m5!1s0x926c10689d3a29bf:0x72e4e3003af1b458!8m2!3d-3.0776683!4d-60.045404!16s%2Fg%2F11gh_gg_6_?entry=ttu&g_ep=EgoyMDI2MDcxMi4wIKXMDSoASAFQAw%3D%3D",
+    images: [
+    "/alvo.jpg",
+    "/alvo1.lpg",
+    "/alvo2.jpg" 
+    "/alvo3.lpg",
+    "/alvo4.jpg" 
+    "/alvo5.lpg",
+    "/alvo6.jpg" 
+    ]
+  },
+
+
   {
     id: 6,
     title: "VENDE-SE APARTAMENTO NO CONDOMÍNO BELLAGIO",
