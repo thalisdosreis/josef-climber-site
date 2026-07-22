@@ -631,7 +631,7 @@ const sampleListings = [
     "/alvo4.jpg",
     "/alvo5.jpg",
     "/alvo6.jpg" 
-    ]
+     ]
   },
 
 
